@@ -109,7 +109,7 @@ class HSV_MODIFIER:
 HSV_MODIFIER('./greenfire_sample.png')
 ```
 
-##Isolating green color (or whatever needed)##
+## Isolating green color (or whatever needed) ##
 
 ![isolation_green](https://github.com/RomeroRodriguezD/Chroma-Key-with-OpenCV/assets/105886661/345da6aa-a8aa-4538-aedc-e3bfb38303ee)
 
